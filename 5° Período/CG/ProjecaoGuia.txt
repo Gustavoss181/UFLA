@@ -1,0 +1,28 @@
+Translação da origem pro 0 0 0
+
+Rotação em Y usando o vetor DireçãoX
+Aplica rotação nos vetores DireçãoX e DireçãoY
+
+Rotação em Z usando o vetor DireçãoX (já aplicado a rotação anterior)
+Aplica rotação nos vetores DireçãoX e DireçãoY
+
+Rotação em X usando o vetor DireçãoY (já aplicado as rotações anteriores)
+
+Aplica Todas as Rotações e a Translação no CentroDeProjeção e na Origem
+
+if(centroProjeção.w == 0){
+	Cisalhamento usando o CentroProjeção (nesse caso ele se chama DireçãoProjeção)
+
+	Multiplica todas as matrizes e retorna o resultado final
+}
+else{
+	Translação do CentroDeProjeção pro 0 0 0
+	Aplica a Translação na origem (já modificada pelas Rotações e Translação anteriores)
+
+	Cisalhamento usando a Origem
+	Aplica o Cisalhamento na Origem (já modificada pelas transformaçoes anteriores)
+
+	Matriz especial usando a Origem modificada
+
+	Multiplica todas as matrizes e retorna o resultado final
+}

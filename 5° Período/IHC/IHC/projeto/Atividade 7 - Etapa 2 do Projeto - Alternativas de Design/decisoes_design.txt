@@ -1,0 +1,5 @@
+O aplicativo possui uma interação com um personagem animado o que permite uma minimização da carga cognitiva ao apresentar um ambiente descontraído e "gameficado". Embora do sketching não apresente nitidamente, pretendemos inserir cores vivas ao aplicativo, indicando uma consistência com nosso personagem e a descontração.
+Além disso, todos os ícones e botões estão posicionados de maneira estratégica para promover uma visibilidade amigável ao usuário, pelo fato de permitir uma flexibilidade ao acessar outros menus.
+Outro ponto seria a realização de um design minimalista, onde apresenta uma interface limpa e agradável, evitando assim uma desordem visual e distrações ao usuário.
+Para não bombardear de informações o usuário, as funções são separadas em grupos bem definidos e intuitivos, promovendo um design limpo.
+O aplicativo será capaz de manter a atenção do usuário, tendo diversas funções intuitivas e interativas, como alimentar o panda e colocar ele pra dormir com o modo foco. Além de ter missões que incentivam o usuário a continuar usando o App.

@@ -1,0 +1,11 @@
+Critério 1.1.1: Todas as imagens não possuem uma forma alternativa de visualização (a tag alt="") para leitores de página
+
+Critério 2.4.6: Não são utilizados hierarquia de cabeçalhos (H1, H2, ..., Hn) para definir prioridades de texto ou títulos na página para mostrar maior destaque, usam apenas a tag <div>.
+
+Critério 1.4.3: Usando a extensão WCAG Color do Google Chrome ele consta que não há problemas de contraste das cores de fundo com as cores de textos no site
+
+Critério 2.4.9: Não tiveram links fora de contexto, todos condizem com o texto lincado a ele.
+
+Critério 2.1.1: Todos os elementos puderam ser acessados pela tecla tab do teclado.
+
+As ferramentas online TAW e AccessMonitor auxiliaram a encontrar problemas na página, principalmente em relação a imagens sem alt e a não utilização de cabeçalhos.

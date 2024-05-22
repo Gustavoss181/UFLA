@@ -1,0 +1,21 @@
+42000 | 2
+21000 | 2
+10500 | 2
+ 5250 | 2
+ 2625 | 3
+  875 | 5
+  175 | 5
+   35 | 5
+    7 | 7
+ 
+2^4 * 3¹ * 5³ * 7¹
+ 3    0    2    0
+
+
+uuaaauauaua uauauau uuuaaa
+
+
+aqui pfv - A
+cola ai - C
+Dá uma chegada - D
+Brota aí - B

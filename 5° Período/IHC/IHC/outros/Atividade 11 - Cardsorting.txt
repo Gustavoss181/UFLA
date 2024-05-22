@@ -1,0 +1,71 @@
+Categorias
+Açougue
+	- Acem moido
+	- Filé de merluza
+
+Bebidas alcoolicas
+	- Cachaça
+	- Vodka
+	- Vinho
+	- Cerveja
+	
+Higiene Pessoal
+	- Sabonete
+	- Shampoo
+	- Absorvente
+	- Desodorante
+	- Batom
+	- Papel higienico
+	- Hidratante
+	
+Artigos de limpeza	
+	- Desinfetante
+	- Vassoura
+	- Alcool
+	- Sabão em pó
+	- Amaciante
+
+Outros
+	- Lâmpada
+	- Telefone sem fio
+	- Carvão
+	- Ração
+	
+Laticinios
+ 	- Leite
+ 	- Queijo
+ 
+Sobremesas
+ 	- Sorvete
+ 	- Leite condensado
+ 	- Chocolate
+ 
+Hortifruti
+ 	- Maça
+ 	- Mamão
+ 	- Limão
+ 	- Banana
+ 	- Pimentão
+ 
+Temperos
+ 	- Manjericão
+ 	- Pimenta
+ 	
+Oleos vegetais
+ 	- Azeite
+ 
+Alimentos
+	- Ovos
+	- Arroz
+ 	- Feijão
+ 	- Amendoim
+ 	- Azeitona
+ 	
+ 	
+ Justificativa:
+ 
+ - Criamos essas categorias baseado no dendrograma e na matriz de similaridade onde encontramos as melhores sugestões de agrupamento baseado nos dados coletados de outras pesquisas.
+ 	
+ 	
+ 	
+ 	

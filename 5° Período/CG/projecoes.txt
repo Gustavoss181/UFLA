@@ -1,0 +1,16 @@
+Projeção perspectiva:
+1 plano
+1 ponto
+
+Projeção paralela:
+1 plano
+
+Câmera virtual:
+1 ponto (local no espaço)
+2 vetores (pra frente e pra cima)
+
+Câmera estenopeica:
+1 ponto (centro de projeção)
+1 plano (papel fotográfico/plano de projeção)
+distância entre o ponto e o plano
+2 vetores (pra frente e pra cima)

@@ -1,0 +1,23 @@
+
+Tutorial
+
+1. Abra o MARS com um duplo clique no arquivo do programa. Se o programa não abrir, será preciso instalar o Java.
+
+2. Vá em File->Open e selecione o arquivo mips1.asm. O arquivo será aberto na janela de edição.
+
+3. Vá em Run->Assemble. O MARS irá montar o programa, simular o carregamento do programa na memória e exibir a aba Execute.
+Na aba Execute você verá, dentre outras, as seguintes informações:
+3.1 o segmento de programa, onde você vê as instruções em formato binário e assembly
+3.2 o segmento de dados do seu programa, onde é possível notar que as variáveis que estão declaradas em mips1.asm aparecem na sequência
+3.3 os registradores da CPU, nomes e valores
+
+4. Execute o programa passo a passo, utilizando a tecla F7. Você verá o efeito que cada instrução do seu programa gera nos registradores
+da CPU e na memória.
+
+5. Vá em File->New
+
+6. Escreva o seu programa e salve.
+
+7. Repita os passos 3 e 4.
+
+Verifique também o funcionamento de um programa mais complexo, como o que se encontra em mips2.asm e divirta-se!

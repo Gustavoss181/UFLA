@@ -1,0 +1,7 @@
+P(S) = {if}
+P(E) = P(T) = P(F) = {(, id}
+
+S(S) = {$}
+S(E) = {then, or, )}
+S(T) = S(E) U {and} = {then, or, ), and}
+S(F) = S(T) = {then, or, ), and}

@@ -1,0 +1,19 @@
+(Periodo que posso fazer a materia - Matéria - n° de créditos)
+
+Subgrupo A: Computação (mín. 20)
+6° - Programação WEB - 4
+3° - Realidade Virtual e Aumentada - 4
+6° - Desenvolvimento de Aplicativos para Dispositivos Móveis - 4
+2° - Redes Neurais Artificiais - 4 (estranho)
+5° - Mineração de Dados - 4
+
+Subgrupo B: Ciências Humanas (mín. 8)
+1° - Língua Brasileira de Sinais (libras) - 2
+1° - Habilidades em Língua Inglesa I - 2
+1° - Língua Inglesa em Contexto Acadêmico para Proficiência QCE A2 - 4
+
+Subgrupos A, B e C (mín. 16)
+6° - Computação em Nuvem - 4
+2° - Processamento Digital de Imagens - 4
+1° - Introdução à Lógica - 4
+4° - Introdução Aos Sistemas Embarcados e Microcontroladores - 4

@@ -1,0 +1,25 @@
+#include <immintrin.h>
+#include <stdio.h>
+
+int main() {
+  __m256d veca = _mm256_setr_pd(6.0, 6.0, 6.0, 6.0);
+  __m256d vecb = _mm256_setr_pd(2.0, 2.0, 2.0, 2.0);
+  __m256d vecc = _mm256_setr_pd(7.0, 7.0, 7.0, 7.0);
+  /* Alternately subtract and add the third vector
+     from the product of the first and second vectors 
+     Alternadamente subrtraia e soma o terceiro vetor do
+      produto do primeiro e segundo vetores*/
+
+  __m256d result = _mm256_fmsubadd_pd(veca, vecb, vecc);
+  
+  /* Display the elements of the result vector */
+  double* a = (double*)&veca;
+  printf("A(0)= %lf  A(1)= %lf  A(2)= %lf A(3)= %lf\n", a[0], a[1], a[2], a[3]);
+  double* b = (double*)&vecb;
+  printf("B(0)= %lf  B(1)= %lf  B(2)= %lf B(3)= %lf\n", b[0], b[1], b[2], b[3]);
+  double* c = (double*)&vecc;
+  printf("C(0)= %lf  C(1)= %lf  C(2)= %lf C(3)= %lf\n", c[0], c[1], c[2], c[3]);
+  double* res = (double*)&result;
+  printf("R(0)= %lf R(1)= %lf R(2)= %lf R(3)= %lf\n", res[0], res[1], res[2], res[3]);
+  return 0;
+}

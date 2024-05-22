@@ -1,0 +1,9 @@
+T(n) = {1
+       {a*T(n/b) + f(n)
+
+f(n) < n^log(a)(b) : T(n) E Teta(n^log(a)(b))
+
+f(n) === n^log(a)(b) : T(n) E Teta(n^log(a)(b) * log(n))
+
+f(n) > n^log(a)(b) : T(n) E Teta(f(n))
+

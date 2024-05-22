@@ -1,0 +1,13 @@
+Grupo: Bryan e suas Amigas
+
+1. Qual a Moral da Tecnologia?
+A moral da tecnologia abrange questões éticas como impacto na sociedade, responsabilidade ética das empresas, acesso equitativo e sustentabilidade. É uma discussão em evolução, considerando o impacto e as responsabilidades da tecnologia na vida humana e no mundo.
+
+2. Existe Ética na Computação? Sim? Não? Porque?
+Sim, existe ética na computação. A ética na computação refere-se ao conjunto de princípios e normas que orientam o comportamento e as decisões dos profissionais de tecnologia da informação e dos desenvolvedores de software. Isso inclui considerações sobre privacidade, segurança, transparência, responsabilidade social e impacto na sociedade. A ética na computação é importante para garantir o uso responsável e ético da tecnologia, evitando danos e promovendo o bem-estar humano.
+
+3. A tecnologia é neutra? Sim? Não? Porque? Justifique usando exemplos.
+Depois de muito debate, chegamos à conclusão que o conceito colocado pelo professor está ambíguo. Pois a "neutralidade da tecnologia" é dita que a tecnologia é neutra so adquirindo "valor" dependendo de quem a usa, e nesse caso sim, concordamos que ela é neutra. Já a 'não neutralidade da tecnologia', se refere à quando ela foi concebida como ideia. E nesse caso concordamos que ela não é neutra, pois ela teve um propósito definido quando criada, sendo ele benéfico ou maléfico. Por exemplo, redes sociais podem conectar pessoas ou disseminar desinformação, a inteligência artificial pode melhorar a segurança ou violar a privacidade, e robôs podem salvar vidas na medicina ou ser usados em armamentos autônomos.
+
+4. Afinal, para quê serve ética, moral, dignidade, honestidade, generosidade, bondade, enfim, essas coisas que não dão dinheiro nem poder?
+É o princípio básico para viver em sociedade. Ética, moral, dignidade, honestidade, generosidade e bondade são fundamentais para o bem-estar emocional, confiança, crescimento pessoal e impacto positivo na sociedade. Apesar de não gerarem dinheiro ou poder diretamente, são essenciais para relacionamentos saudáveis e uma sociedade justa e inclusiva.

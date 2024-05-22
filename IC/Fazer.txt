@@ -1,0 +1,4 @@
+Navegadores:
+- consumo de memoria 
+- consumo de processamento
+- desempenho

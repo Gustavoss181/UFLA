@@ -1,0 +1,3 @@
+Explique como os conceitos de polimorfismo são utilizados no tratamento de evento de um clique de botão em uma Interface Gráfica.
+
+R: O polimorfismo ocorre quando a ação de clicar no botão é feita, em que uma classe anônima tinha sido adicionada com o método addActionListener. Essa classe implementa a interface ActionListener e não é conhecida pelo botão, mas tem uma sobrescrita do método ActionPerformed. O polimorfismo ocorre no botão para chamar esse método quando ocorrer a ação do clique, pois o botão não conhece a classe anônima que foi adicionada.

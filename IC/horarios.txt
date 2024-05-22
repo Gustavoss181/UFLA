@@ -1,0 +1,6 @@
+Seg: 13h - 17h (4hrs)
+ter: 13h - 15h (2hrs)
+qui: 16h - 18:30 (2hrs e 30min)
+sex: 13h - 17h (4hrs)
+
+8 + 4,5 = 12,5
