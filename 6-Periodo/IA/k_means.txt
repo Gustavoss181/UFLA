@@ -1,0 +1,9 @@
+1. Pega os dados do Iris dataframe com iris.data
+2. Escolhe um valor pra k (3 ou 5)
+3. Define os k centroides como dados do iris.data, cada centroide sendo uma linha do iris.data
+4. O código:
+	4.1. while True:
+		4.1.1. Pegue um vetor vazio que será usado como target (as classes), cada posição desse vetor refere-se a um dado (linha) do Iris. Defina a classe de cada dado como sendo a classe do centroide mais perto desse dado.
+		4.1.2. Recalcule os centroides fazendo a média de todos os dados pertencentes à classe dele.
+		4.1.3. Se os centroides não mudarem de posição
+			4.1.3.1. break.

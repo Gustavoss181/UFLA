@@ -1,0 +1,9 @@
+1)
+	a) Sim, não há dependência de dados
+	b) Não, flag não afetará outras iterações
+	c) Sim
+	d) Sim
+	e) Não, pois break não evita continuar o loop de outras threads
+	f) Sim, mas usando semáforo
+	g) Sim, não há dependência de dados
+	h) Não, há dependência de dados

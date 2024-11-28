@@ -1,0 +1,8 @@
+[
+    {
+        "model": "phi",
+        "api_key": "ollama",
+        "base_url": "http://localhost:11434/v1",
+        "price": [0, 0]
+    }
+]
